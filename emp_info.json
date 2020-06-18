@@ -19,10 +19,10 @@
         "type": "business",
         "value": "Business one"
       },
-      "positionName": "CIO ",
+      "positionName": "Chief Information Officer ",
       "children": [
         {
-          "name": " Leverling Janet",
+          "name": "Arnold Sanchez",
           "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg",
           "area": "Corporate",
           "profileUrl": "http://example.com/employee/profile",
@@ -34,10 +34,10 @@
             "value": " Finance Department",
             "desc":"Finance Dept description"
           },
-          "positionName": "CTO ",
+          "positionName": "Chief Customer Officer ",
           "children": [
             {
-              "name": " Leverling Janet",
+              "name": "Eva Bose-Chatterton",
               "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg",
               "area": "Corporate",
               "profileUrl": "http://example.com/employee/profile",
@@ -48,10 +48,10 @@
                 "type": "department",
                 "value": "Finance Department"
               },
-              "positionName": "CTO ",
+              "positionName": "Chief People Officer ",
               "children": [
                 {
-                  "name": "Peter Wilson",
+                  "name": "James Stewart",
                   "isLoggedUser": false,
                   "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
                   "area": "Corporate",
@@ -62,10 +62,10 @@
                     "type": "department",
                     "value": "Finance Department"
                   },
-                  "positionName": "Head of channels",
+                  "positionName": "Chief Financial Officer",
                   "children": [
                     {
-                      "name": " Lars Peterson",
+                      "name": "Tim Blunt",
                       "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
                       "area": "Corporate",
                       "profileUrl": "http://example.com/employee/profile",
@@ -76,12 +76,12 @@
                         "type": "department",
                         "value": "Finance Department"
                       },
-                      "positionName": "Anakyst Developer"
+                      "positionName": "Chief Revenue Officer"
                     }
                   ]
                 },
                 {
-                  "name": "Carlos Diaz",
+                  "name": "Nik Koutsoukos",
                   "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
                   "area": "Corporate",
                   "profileUrl": "http://example.com/employee/profile",
@@ -92,7 +92,7 @@
                     "type": "department",
                     "value": "Finance Department"
                   },
-                  "positionName": "Senior Android Developer",
+                  "positionName": "Executive VP, Marketing",
                   "children": [
                     {
                       "name": " Leverling Janet",
